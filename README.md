@@ -2,6 +2,8 @@
 
 A modern, full-stack equipment rental platform built with React, Node.js, and MongoDB. RentHub provides a seamless experience for renting construction equipment, party supplies, and more.
 
+for the deployed model click: https://radharaniede1981-sud-fyv8.bolt.host/
+
 ## ✨ Features
 
 ### 🎯 Core Features
